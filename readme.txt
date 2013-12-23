@@ -1,5 +1,6 @@
 === Scroll to Top Button ===
 Contributors: Rene Puchinger
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=DVPJFSW44G4KC
 Tags: scroll to top, scroll, button
 Requires at least: 3.5
 Tested up to: 3.7.1
