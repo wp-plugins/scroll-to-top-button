@@ -8,7 +8,7 @@ Stable tag: 1.0
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
-Displays a button in the bottom right corner for smooth scrolling to top of the page.
+Displays a button in the bottom right corner for smooth scrolling to the top of the page.
 
 == Description ==
 
