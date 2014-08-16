@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Scroll to Top Button
-Plugin URI: http://www.renepuchinger.com
+Plugin URI: https://wordpress.org/plugins/scroll-to-top-button/
 Description: A simple plugin for displaying a scroll to top button in bottom right corner.
 Author: Rene Puchinger
 Version: 1.0
-Author URI: http://www.renepuchinger.com
+Author URI: https://profiles.wordpress.org/rene-puchinger/
 License: GPL3
 
     Copyright (C) 2013  Rene Puchinger
